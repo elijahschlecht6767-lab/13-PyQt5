@@ -132,7 +132,6 @@ class MainWindow(QMainWindow):
         #label8.setStyleSheet("background-color: orange")
 
         grid=QGridLayout()
-        grid = QGridLayout()
 
         grid.addWidget(self.backgroundText,0,0,1,4)
         grid.addWidget(self.label1,1,0)
