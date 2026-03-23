@@ -1,0 +1,12 @@
+chat gpt helped me study <<<<<<
+
+1. class level variables (aka shared variables)
+
+real world example:
+
+Think of a school classroom
+Every student has their own name → instance variable
+But the classroom has one whiteboard everyone sees → class variable
+
+a class variable is shared by all objects of that class
+(so if you have a 'students' class and there are 3 students, this variable is sort of global- its public accross them and not specific to them)
